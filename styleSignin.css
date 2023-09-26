@@ -148,3 +148,11 @@ ul a{
     text-decoration: none;
     color: #2781f7;
 }
+
+.form input:focus {
+    border-radius: 5px;
+    height: 1.6rem;
+    width: 100%;
+    box-shadow: 0 0 15px #2781f7;
+    border: 2px solid #2781f7;
+}
